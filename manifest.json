@@ -1,0 +1,8 @@
+{
+  "short_name": "Charli XCX Lyric Search",
+  "name": "Charli XCX Lyric Search",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
