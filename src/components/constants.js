@@ -2,26 +2,19 @@
 export const ArtistName = "taylor swift";
 
 export const ModalText =
-  'Search for a word or a phrase and see all the places Taylor Swift \
+  'Search for a word or a phrase and see all the places Charli XCX \
   has used it in her music! To search for multiple words or phrases, use \
-  a comma between them. Use a * for wildcard search. Scraped data can be found \
-  <a href="https://github.com/shaynak/taylor-swift-lyrics">here</a>. \
-  Curious about what people are searching? See our \
-  <a href="https://shaynak-taylor-swift.goatcounter.com/">analytics</a>! \
-  <br><br>Last updated: 3/26/22. First published 12/28/20.';
+  a comma between them. Use a * for wildcard search.\
+  <br><br>Last updated: ??/??/22. First published ??/??/22.';
 
 // Ordered list of albums for selector - keep in sync with album map
 export const ALBUMS = [
-  "Taylor Swift",
-  "Beautiful Eyes",
-  "Fearless",
-  "Speak Now",
-  "Red",
-  "1989",
-  "reputation",
-  "Lover",
-  "folklore",
-  "evermore",
-  "Collaborations",
-  "Movie Soundtracks"
+  "True Romance",
+  "Sucker",
+  "Vroom Vroom",
+  "Number 1 Angel",
+  "Pop 2",
+  "Charli",
+  "how i'm feeling now",
+  "CRASH"
 ];
